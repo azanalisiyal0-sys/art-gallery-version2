@@ -96,6 +96,10 @@ nav a:hover {
     color: #fd9f7d;
 }
 
+a{
+    text-decoration: none;
+}
+
 /* Mobile Navigation Bar */
 
 .menu-toggle {
@@ -199,7 +203,7 @@ button:hover {
 
 .footerPara{
     text-align: center;
-
+    color: #F2C6B6;
 }
 
 .section2 {
